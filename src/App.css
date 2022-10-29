@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.app {
+  height: 1158px;
+}
+@media (max-width:768px) { 
+  .app {
+    height: 1088px;
+  }
+}
+
+
+@media (max-width: 480px) { 
+  .app {
+    height: 1088px;
+  }
+}
+
