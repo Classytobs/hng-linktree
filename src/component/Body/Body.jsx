@@ -35,7 +35,8 @@ export default function Body() {
           href="https://github.com/Classytobs"
           target="_blank"
           rel="noreferrer"
-        ><img src={github}/></a>
+        ><img src={github} target="_blank"
+        rel="noreferrer"/></a>
             </div>
       </div>
       
