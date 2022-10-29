@@ -29,12 +29,12 @@ export default function Body() {
           id="slack"
           href="https://app.slack.com/client/T042F7V19Q8/C041V6WKAUS/rimeto_profile/U047YHWQXSB"
           target="_blank"
-          rel="none"><img  src={slack}/></a>
+          rel="noreferrer"><img  src={slack}/></a>
               <a
           id="github"
           href="https://github.com/Classytobs"
           target="_blank"
-          rel="none"
+          rel="noreferrer"
         ><img src={github}/></a>
             </div>
       </div>

@@ -7,7 +7,7 @@ export default function Links() {
     <div className="Links">
       {Data.map((data, key) => (
         <div className="frame" key={key}>
-          <a href={data.url} id={data.id} target="_blank" rel="none">
+          <a href={data.url} id={data.id} target="_blank" rel="noreferrer">
             {data.name}
           </a>
         </div>
