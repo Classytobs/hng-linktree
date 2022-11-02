@@ -4,8 +4,10 @@
   padding: 0px;
 }
 
-.app {
+.App {
   height: 1158px;
+  overflow: hidden;
+  width: 100%;
 }
 @media (max-width:768px) { 
   .app {
